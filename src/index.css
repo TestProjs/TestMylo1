@@ -1,0 +1,12 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+.user-container {
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 2em;
+  display: flex;
+  width: 40em;
+}
